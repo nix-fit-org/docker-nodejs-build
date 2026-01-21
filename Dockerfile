@@ -1,4 +1,4 @@
-FROM nix-docker.registry.twcstorage.ru/ci/build/common-build:1.1.0000@sha256:744b3dc2ed14b0f5433746500130c59907d83dddc09d81c3f374b69c79d6c858
+FROM nix-docker.registry.twcstorage.ru/ci/build/common-build:1.2.0000@sha256:8b81fda6079f11574d782000ae8d732a4f88569618d6c0f86c65a986cd568871
 
 LABEL org.opencontainers.image.authors="wizardy.oni@gmail.com"
 

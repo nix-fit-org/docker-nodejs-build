@@ -1,4 +1,4 @@
-FROM nix-docker.registry.twcstorage.ru/ci/build/common-build:1.3.0000
+FROM nix-docker.registry.twcstorage.ru/ci/build/common-build:1.4.0000
 
 LABEL org.opencontainers.image.authors="wizardy.oni@gmail.com"
 
